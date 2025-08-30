@@ -1,8 +1,8 @@
 <h1 align="left">Olá! Eu sou o Alexandre Diniz</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrehdiniz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" alt="stats graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrehdiniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrehdiniz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" alt="stats graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrehdiniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" alt="languages graph"  />
 </div>
 
 ##
