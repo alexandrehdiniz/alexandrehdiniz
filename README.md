@@ -40,6 +40,6 @@
   <a href="mailto:diniz.alexandreh@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
-<!-- ![Snake animation](https://github.com/alexandrehdiniz/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/alexandrehdiniz/alexandrehdiniz/blob/output/github-contribution-grid-snake.svg)
 
 ##
